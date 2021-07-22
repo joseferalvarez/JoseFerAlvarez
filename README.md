@@ -10,6 +10,7 @@ Aficionado a la tecnologia y la programacion mobile.
 [![Csharp](https://img.shields.io/badge/csharp-6E3995?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 </br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Visual_Studio](https://img.shields.io/badge/visual_studio-5D0881?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Sqlite](https://img.shields.io/badge/sqlite-80B6F3?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
