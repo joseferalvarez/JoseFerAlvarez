@@ -18,6 +18,8 @@ Aficionado a la tecnologia y la programacion mobile.
 [![Windows](https://img.shields.io/badge/windows-2785F0?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/linux-F3A811?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+</br>
+[![Microsoft Office](https://img.shields.io/badge/microsoft_office-DE5E00?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=101010)]()
 
 ## RRSS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Fernando_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-fernando-álvarez-romero-074625209)
