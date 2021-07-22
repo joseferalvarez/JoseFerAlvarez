@@ -1,7 +1,7 @@
 ### 💻 Tecnico en Desarrollo de Aplicaciones Multiplataforma y Especialista en Ciberseguridad en Entornos de las Tecnologias de la Informacion 💪🏼
 
-#Actualmente estoy aprendiendo a desarrollar aplicaciones en Android con los lenguajes Kotlin y Java.
-#Apasionado de a las tecnologias y la programacion mobile.
+Actualmente estoy aprendiendo a desarrollar aplicaciones en Android con los lenguajes Kotlin y Java.</br>
+Apasionado de a las tecnologias y la programacion mobile.
 
 ## Habilidades
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
