@@ -9,10 +9,13 @@ Aficionado a la tecnologia y la programacion mobile.
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Csharp](https://img.shields.io/badge/CSHARP-6E3995?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![Csharp](https://img.shields.io/badge/csharp-6E3995?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Sqlite](https://img.shields.io/badge/sqlite-80B6F3?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
+</br>
+[![Windows](https://img.shields.io/badge/windows-2785F0?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/linux-F3A811?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 
 ## RRSS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Fernando_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-fernando-álvarez-romero-074625209)
