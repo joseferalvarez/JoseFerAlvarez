@@ -13,7 +13,7 @@ Apasionado de a las tecnologias y la programacion mobile.
 
 ## RRSS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Fernando_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-fernando-álvarez-romero-074625209)
-[![Email](https://img.shields.io/badge/joseferalvarezromero@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:joseferalvarezromero@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-joseferalvarezromero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:joseferalvarezromero@gmail.com)
 
 
 
