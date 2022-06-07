@@ -23,8 +23,8 @@ Aficionado a la tecnologia y la programacion mobile.
 ## Front-end technologies
 ![Java](https://img.shields.io/badge/Java-ffd69c?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/javascript-f5e90f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![vuejs](https://img.shields.io/badge/vue.js-9afcbc?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)...
-...![Html](https://img.shields.io/badge/html5-f5b267?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![vuejs](https://img.shields.io/badge/vue.js-9afcbc?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)\
+![Html](https://img.shields.io/badge/html5-f5b267?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![Css](https://img.shields.io/badge/css3-9decfa?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
 ## RRSS
