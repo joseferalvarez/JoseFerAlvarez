@@ -18,6 +18,10 @@ I am currently looking for a job that will allow me to continue my education and
 ![Netlify](https://img.shields.io/badge/Netlify-aee6fc?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)
 ![Bash](https://img.shields.io/badge/Bash-edfaff?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)
 
+## My stats
+![Commits](https://github-readme-stats.vercel.app/api?username=joseferalvarez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Codestats](https://github-readme-stats.vercel.app/api/top-langs/?username=joseferalvarez&layout=compact&langs_count=7&theme=dark)
+
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Fernando_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-fernando-álvarez-romero-074625209)
 [![Email](https://img.shields.io/badge/Gmail-joseferalvarezromero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:joseferalvarezromero@gmail.com)
