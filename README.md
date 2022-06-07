@@ -1,5 +1,3 @@
-[ENGLISH](READMEENG.md)
-
 ### 💻 Tecnico en Desarrollo de Aplicaciones Multiplataforma y Especialista en Ciberseguridad en Entornos de las Tecnologias de la Informacion
 
 Actualmente estoy aprendiendo a desarrollar aplicaciones en Android con los lenguajes Kotlin y Java.</br>
@@ -11,10 +9,8 @@ Aficionado a la tecnologia y la programacion mobile.
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/javascript-f5e90f?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)
 ![Csharp](https://img.shields.io/badge/csharp-6E3995?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
-</br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Visual_Studio](https://img.shields.io/badge/visual_studio-5D0881?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
-</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Sqlite](https://img.shields.io/badge/sqlite-80B6F3?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 </br>
@@ -23,6 +19,13 @@ Aficionado a la tecnologia y la programacion mobile.
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 </br>
 [![Microsoft Office](https://img.shields.io/badge/microsoft_office-DE5E00?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=101010)]()
+
+## Front-end technologies
+![Java](https://img.shields.io/badge/Java-ffd69c?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![Javascript](https://img.shields.io/badge/javascript-f5e90f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![vuejs](https://img.shields.io/badge/vue.js-9afcbc?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)...
+...![Html](https://img.shields.io/badge/html5-f5b267?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![Css](https://img.shields.io/badge/css3-9decfa?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
 ## RRSS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Fernando_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-fernando-álvarez-romero-074625209)
