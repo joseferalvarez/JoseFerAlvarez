@@ -1,7 +1,6 @@
 
 <img src="https://img.shields.io/github/followers/joseferalvarez?label=Followers&style=social">
 <h1 align="center">Jose Fernando Álvarez Romero
-<br>
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&color=ffffff&background=0D1117&center=true&vCenter=true&lines=Full-Stack+Developer" style="max-with">
 </h1>
 
@@ -11,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jose-fernando-alvarez/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
   <a href="https://www.instagram.com/josefer_alvarez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
 </p>
-<hr style="border: 1px solid #ffffff">
+
 <h2 align="center">Technologies: <h2>
 
 <p align="center">
@@ -42,17 +41,12 @@
 <img src="https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&logoColor=ffffff">
 </p>
 
-<hr style="border: 1px solid #ffffff">
-
 <h2 align="center">My stats</h2>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joseferalvarez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseferalvarez&layout=compact&langs_count=7&theme=dark">
 </p>
-
-<hr style="border: 1px solid #ffffff">
 
 <h2 align="center">My projects:</h2>
 <p align="center">
