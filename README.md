@@ -1,8 +1,9 @@
 
 <img src="https://img.shields.io/github/followers/joseferalvarez?label=Followers&style=social">
-<h1 align="center">Jose Fernando Álvarez Romero
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&color=ffffff&background=0D1117&center=true&vCenter=true&lines=Full-Stack+Developer" style="max-with">
-</h1>
+<h1 align="center">Jose Fernando Álvarez Romero</h1>
+
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&color=ffffff&background=0D1117&center=true&vCenter=true&lines=Full-Stack+Developer" style="max-with">
+</p>
 
 <h2 align="center">Follow me on:</h2>
 <p align="center">
