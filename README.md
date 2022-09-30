@@ -15,7 +15,7 @@
 <h2 align="center">Technologies: <h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=ffffff">
+<a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
 <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=ffffff">
