@@ -7,17 +7,14 @@ Jose Fernando Álvarez Romero
   </p>
 </h1>
 
-<h2 align="center">
-Follow me on:
+<p align="center" style="font-size: x-large; font-weight: bold">Follow me on:</p>
 <p align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-fernando-alvarez/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
   <a href="https://www.instagram.com/josefer_alvarez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
 </p>
-</h2>
 
-<h2 align="center">
-Technologies:
+<p align="center" style="font-size: x-large; font-weight: bold">Technologies:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=ffffff">
 
@@ -52,12 +49,10 @@ Technologies:
 <img src="https://img.shields.io/badge/-kali-0D1117?style=for-the-badge&logo=kalilinux&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&logoColor=ffffff">
 </p>
-<h2>
 
-<h2 align="center">My stats
+<p align="center" style="font-size: x-large; font-weight: bold">My stats</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joseferalvarez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseferalvarez&layout=compact&langs_count=7&theme=dark">
 </p>
-</h2>
