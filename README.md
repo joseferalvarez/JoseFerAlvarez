@@ -21,14 +21,17 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=ffffff">
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/-next-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=node.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=ffffff">
 </p>
 
 <p align="center">
@@ -49,10 +52,8 @@
 <img src="https://img.shields.io/badge/-netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=ffffff">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows11&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-arch-0D1117?style=for-the-badge&logo=archlinux&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-kali-0D1117?style=for-the-badge&logo=kalilinux&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-macos-0D1117?style=for-the-badge&logo=apple&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-kalilinux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=ffffff">
 </p>
 
 <h2 align="center">My stats</h2>
